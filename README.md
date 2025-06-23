@@ -10,18 +10,7 @@
 
 📫 **Reach me at**: [rathnasirisuvinya@gmail.com](mailto:rathnasirisuvinya@gmail.com)  
 🔗 **Connect with me**: [LinkedIn]([https://www.linkedin.com/in/suvinya-rathnasiri)   
-⚡ **Fun Fact**: I sketch UI designs on paper before digitizing them – old-school creativity meets modern tech!  
-
----
-
-## 🚀 What I Do  
-
-- **UI/UX Design**: Creating user-friendly, visually appealing interfaces using Figma and design principles.  
-- **Frontend Development**: Building responsive and dynamic web apps with React.js, HTML5, CSS3, and JavaScript.  
-- **Backend Development**: Developing scalable APIs and databases with Node.js, Express, and MongoDB.  
-- **Mobile Development**: Exploring Android app development with Kotlin.  
-
-💬 **Ask me about**: UI/UX design, MERN stack, React.js, or how to blend creativity with code!  
+⚡ **Fun Fact**: I sketch UI designs on paper before digitizing them – old-school creativity meets modern tech!   
 
 ---
 
