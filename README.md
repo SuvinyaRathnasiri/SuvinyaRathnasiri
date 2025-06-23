@@ -51,7 +51,7 @@
 
 ## 🌟 Featured Projects  
 
-👉 *Check out more on my [GitHub repositories](https://github.com/SuvinyaRathnasiri?tab=repositories)!*  
+👉 *Check out on my [GitHub repositories](https://github.com/SuvinyaRathnasiri?tab=repositories)!*  
 
 
 ## 📬 Let’s Connect!  
