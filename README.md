@@ -1,4 +1,9 @@
 Hi 👋, I'm Suvinya Rathnasiri  
+
+### Profile Visits
+
+![Profile Views](https://komarev.com/ghpvc/?username=SuvinyaRathnasiri&color=blue)
+
 A passionate aspiring UI Designer and Full-Stack Developer from Sri Lanka
 
 🎓 Information Technology Undergraduate at SLIIT, specializing in Information Technology with a focus on UI design and web development
@@ -21,10 +26,10 @@ A passionate aspiring UI Designer and Full-Stack Developer from Sri Lanka
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white)  
 ![Figma](https://img.shields.io/badge/-Figma-F24E1E?logo=figma&logoColor=white)  
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white)
+![Kotlin](https://img.shields.io/badge/-Kotlin-0095D5?logo=kotlin&logoColor=white)
 
 ---
 
-### Profile Visits
 
-![Profile Views](https://komarev.com/ghpvc/?username=SuvinyaRathnasiri&color=blue)
+![Suvinya's GitHub stats](https://github-readme-stats.vercel.app/api?username=SuvinyaRathnasiri&show_icons=true&theme=radical)
 
