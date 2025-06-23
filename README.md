@@ -1,13 +1,17 @@
 Hi 👋, I'm Suvinya Rathnasiri  
-A passionate aspiring UI Designer and Full-Stack Developer from Sri Lanka  
+A passionate aspiring UI Designer and Full-Stack Developer from Sri Lanka
 
-🎓 Information Technology Undergraduate at SLIIT, specializing in Information Technology with a focus on UI design and web development    
+🎓 Information Technology Undergraduate at SLIIT, specializing in Information Technology with a focus on UI design and web development
 
-💬 Ask me about UI Design, React.js, MERN Stack, and frontend development  
+💬 Ask me about UI Design, React.js, MERN Stack, and frontend development
 
-📫 How to reach me: rathnasirisuvinya@gmail.com  
+📫 How to reach me: rathnasirisuvinya@gmail.com
 
 ⚡ Fun fact: Love to draw and scribble in my free time
+
+---
+
+### Languages and Tools
 
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white)  
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white)  
@@ -17,3 +21,10 @@ A passionate aspiring UI Designer and Full-Stack Developer from Sri Lanka
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white)  
 ![Figma](https://img.shields.io/badge/-Figma-F24E1E?logo=figma&logoColor=white)  
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white)
+
+---
+
+### Profile Visits
+
+![Profile Views](https://komarev.com/ghpvc/?username=SuvinyaRathnasiri&color=blue)
+
