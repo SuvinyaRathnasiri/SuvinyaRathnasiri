@@ -56,7 +56,7 @@
 
 ## 📬 Let’s Connect!  
 
-Whether it’s about a project, collaboration, or just a chat about design and tech, I’m all ears (or rather, all pixels)!  
+Whether it’s about a project, collaboration, or just a chat about design and tech, I’m all ears!  
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/suvinya-rathnasiri/) <!-- Replace with your actual link -->  
 [![Email](https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=white)](mailto:rathnasirisuvinya@gmail.com)  
