@@ -2,7 +2,7 @@ Hi 👋, I'm Suvinya Rathnasiri
 
 ### Profile Visits
 
-![Profile Views](https://komarev.com/ghpvc/?username=SuvinyaRathnasiri&color=blue)
+[![Visitor Count](https://profile-counter.glitch.me/SuvinyaRathnasiri/count.svg)](https://github.com/SuvinyaRathnasiri)
 
 A passionate aspiring UI Designer and Full-Stack Developer from Sri Lanka
 
