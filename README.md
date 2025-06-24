@@ -1,6 +1,5 @@
-# 👋 Hi, I'm Suvinya Rathnasiri!  
-
-[![Profile Views](https://komarev.com/ghpvc/?username=SuvinyaRathnasiri&color=blue)](https://github.com/SuvinyaRathnasiri)  
+<h1 align="center">👋 Hi, I'm Suvinya Rathnasiri!</h1>
+<!--[![Profile Views](https://komarev.com/ghpvc/?username=SuvinyaRathnasiri&color=blue)](https://github.com/SuvinyaRathnasiri)  -->
 
 🌟 **Aspiring UI/UX Designer & Full-Stack Developer** from Sri Lanka, passionate about crafting intuitive user experiences and building robust web applications.  
 
