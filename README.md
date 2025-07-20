@@ -8,7 +8,7 @@
 ✍️ **Creative at Heart** – I love to draw, scribble, and bring ideas to life through design and code!  
 
 📫 **Reach me at**: [rathnasirisuvinya@gmail.com](mailto:rathnasirisuvinya@gmail.com)  
-🔗 **Connect with me**: [LinkedIn](www.linkedin.com/in/suvinya-rathnasiri-42527b317)   
+🔗 **Connect with me**: [LinkedIn](https://www.linkedin.com/in/suvinya-rathnasiri/)   
 ⚡ **Fun Fact**: I sketch UI designs on paper before digitizing them – old-school creativity meets modern tech!   
 
 ---
